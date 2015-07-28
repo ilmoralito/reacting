@@ -1,2 +1,4 @@
 # reacting
-Simple app for trying gulp, bower, react, uncss, etc.
+Simple app for trying [react examples](http://facebook.github.io/react/index.html) using gulp and bower.
+
+
